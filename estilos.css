@@ -1,0 +1,12 @@
+.titulo{
+    font-size: 60px;
+    font-family: 'Mogra', cursive;
+    color: rgb(50, 236, 146);
+}
+.fondo {
+    background-color: rgba(187, 224, 236, 0.279);
+
+}
+.imagen span { 
+    text-align: center;
+}
